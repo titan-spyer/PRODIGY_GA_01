@@ -1,4 +1,4 @@
-readme_content = """# PRODIGY_GAI_01
+readme_content = # PRODIGY_GA_01
 
 ## Fine-tuning GPT-2 for Text Generation
 
